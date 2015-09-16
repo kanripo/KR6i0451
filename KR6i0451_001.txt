@@ -1,24 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:53.432505
+#+DATE: 2015-08-30 20:19:53.859180
 #+TITLE: 佛說淨意優婆塞所問經
 #+PROPERTY: CBETA_ID T17n0755
 #+PROPERTY: ID KR6i0451
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 755
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6i0451_T_000-0588c>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0451_T_001-0588c> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.755¶
-
- 《佛說淨意優婆塞所問經》¶
+No. 755¶
+《佛說淨意優婆塞所問經》¶
 ¶
-西天譯經三藏朝奉大夫¶
-試光祿卿傳法大師賜紫¶
-臣施護奉　詔譯¶
+宋西天三藏朝奉大夫¶
+試光祿卿傳法大師¶
+施護奉　詔譯¶
 
 如是我聞：
 
