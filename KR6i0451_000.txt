@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說淨意優婆塞所問經
+#+DATE: 2015-08-30 20:19:53.629612
+#+PROPERTY: JUAN 0
