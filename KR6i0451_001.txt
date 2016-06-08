@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:54.083523
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:38
 #+TITLE: 佛說淨意優婆塞所問經
 #+PROPERTY: CBETA_ID T17n0755
 #+PROPERTY: ID KR6i0451
